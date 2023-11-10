@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pizza Restaurant</string>
+    <string name="title_activity_location_details">LocationDetails</string>
+    <string name="title_pepperoni">Pepperoni Pizza</string>
+    <string name="title_spaghetti">Spaghetti</string>
+    <string name="title_burger">Burger</string>
+    <string name="title_steak">Steak</string>
+    <string name="description_pepperoni">Cocok bagi anda yang ingin merasakan pizza original dengan taburan keju dan daging asap yang lezat</string>
+    <string name="description_spaghetti">Cocok bagi anda yang ingin merasakan spaghetti original dengan bumbu yang oriental</string>
+    <string name="description_burger">Cocok bagi anda yang ingin merasakan kelembutan burger berlapiskan keju, sayuran dan daging yang tebal</string>
+    <string name="description_steak">Cocok bagi anda yang ingin merasakan lezatnya daging steak dipadukan dengan kentang yang lezat</string>
+</resources>
